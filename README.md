@@ -1,3 +1,10 @@
+
+THIS VERSION IS BROKEN
+======================
+As many of you have encountered, the code presented here doesn't work in all cases. We're trying to fix this and will update the code as soon as possible. In the meantime, check the official iOS repository at:
+https://github.com/PhilipsHue/PhilipsHueSDK-iOS-OSX/blob/master/ApplicationDesignNotes/RGB%20to%20xy%20Color%20conversion.md
+
+
 Hue color converter
 ===================
 
